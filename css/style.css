@@ -93,6 +93,11 @@ footer {
   color: rgb(122, 38, 38);
 }
 
+a:link{
+  text-decoration: none;
+  color: black;
+}
+
 @media only screen and (min-width: 760px)
 {
   .media ul{
