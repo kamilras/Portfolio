@@ -24,6 +24,10 @@ main, footer, .describe, .center {
   display: block;
 }
 
+.describe{
+  max-width: 1140px;
+}
+
 header {
   padding: 2em;
   color: #fff;
